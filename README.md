@@ -1,12 +1,6 @@
 # movies-explorer-api
-Репозиторий для приложения проекта `Movies Explorer`
+Backend for `Movies Explorer` project.
 
-Адрес репозитория: https://github.com/Skavr666/movies-explorer-api
+Made with Express.js.
 
-## Ссылки на проект
-
-IP 158.160.50.143
-
-Frontend in progress
-
-Backend https://api.skavr.nomoredomains.rocks
+[Frontend repo](https://github.com/yegorsid/movies-explorer-frontend)
